@@ -6,4 +6,4 @@ The best (“least-worst”) city on this list of about 50-worst cities has a PM
 [2] http://www.who.int/phe/health_topics/outdoorair/databases/cities-2011/en/
 [3] http://www.epa.gov/airtrends/aqtrnd95/pm10.html
 
-Shoot me an e-mail at mickelsp@gmail.com with any comments or questions. -Pascal Mickelson
+Shoot me an e-mail at mickelsp@gmail.com with any comments or questions. -Pascal
